@@ -17,7 +17,7 @@ https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 https://ottrb2.republicworld.com/live/bharat_hls/masterlive_360p.m3u8
 
 #EXTINF:-1,India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live3/chunks.m3u8
 
 #EXTINF:-1,India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
