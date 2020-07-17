@@ -36,6 +36,8 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5
 #EXTINF:-1,Tez
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_3/chunklist.m3u8
 
+#EXTINF:-1,News Nation
+https://stream-14.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZF2tgcEAF1KWmXXg-lC454)/dm/3/x7t0g3i/s/live-3.m3u8
 
 #EXTINF:-1,Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
