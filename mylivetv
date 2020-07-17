@@ -34,7 +34,7 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_4_av-b.m3u8?sd=10&r
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 
 #EXTINF:-1,Tez
-https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_3/chunklist.m3u8
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
 
 #EXTINF:-1,Dilli Aaj Tak
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
