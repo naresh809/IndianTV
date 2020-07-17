@@ -99,6 +99,9 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1, CNBC Awaaz (English)
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
+#EXTINF:-1, 92 News
+https://92news.vdn.dstreamone.net/92newshd/92hdabr/92newshd/92hd_720p/chunks_dvr.m3u8?nimblesessionid=75261207
+
 #EXTINF:-1, PK Dunya News
 http://95.211.211.168/live/dunyanews0013/playlist.m3u8
 
