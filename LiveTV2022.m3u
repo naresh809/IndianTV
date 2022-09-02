@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,DD Sports1
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1,DD Sports2
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1,DD Sports3
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
 #EXTINF:-1,Republic TV
 https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
 
@@ -51,6 +60,9 @@ https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1,News 1st Kannada
 https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/playlist.m3u8
+
+#EXTINF:-1,ZeeNews Kannada
+https://d9f7u7ur6g5w9.cloudfront.net/out/v1/13dc2cfe6eff4d008a6df9b50b8670b6/index_4.m3u8
 
 #EXTINF:-1,TV9 Kannada
 http://vidnetcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live1/chunks.m3u8
