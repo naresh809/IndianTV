@@ -3,11 +3,14 @@
 #EXTINF:-1,DD Sports1
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
-#EXTINF:-1,DD Sports2
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1,Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 
-#EXTINF:-1,DD Sports3
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1,Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
+
+#EXTINF:-1,Zee Cinema
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
 #EXTINF:-1,Republic TV
 https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
@@ -179,6 +182,13 @@ https://streamone.simpaisa.com:8443/pitvlive1/sindhnews.smil/playlist.m3u8
 
 #EXTINF:-1,Duniya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+
+#EXTINF:-1,PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
+#EXTINF:-1,Sony Max HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
 
 
 URL For VLC
