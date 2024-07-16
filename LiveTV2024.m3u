@@ -72,3 +72,5 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 
+#EXTINF:-1,CNN News
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
