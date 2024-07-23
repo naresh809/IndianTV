@@ -74,3 +74,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 
 #EXTINF:-1,CNN News
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,CNBC Awaj
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=2336400.m3u8
+
+#EXTINF:-1,Zee Business
+https://dwby15d04agvq.cloudfront.net/index_2.m3u8
