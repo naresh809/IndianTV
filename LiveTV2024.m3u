@@ -49,7 +49,7 @@ https://d3vzwoqcbpfm8p.cloudfront.net/index_1.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 
 #EXTINF:-1,Public TV 
-https://livestream.knowtable.xyz:5443/show/streams/Publictv_480p400kbps.m3u8
+https://livestream.knowtable.xyz:5443/iostv/streams/Publictv_720p800kbps.m3u8
 
 #EXTINF:-1,News 18 Kannada
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kannada_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
