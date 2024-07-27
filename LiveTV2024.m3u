@@ -3,6 +3,9 @@
 #EXTINF:-1, SONY Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1, SONY PIX
+http://Watchindia.net:8880/live/98697/23119/2101.ts
+
 #EXTINF:-1,TimesNow
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 
