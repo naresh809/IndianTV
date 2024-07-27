@@ -132,8 +132,26 @@ https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1,PTV News
 https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
 
+#EXTINF:-1,ARY News
+http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+
+#EXTINF:-1,GEO News
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+
 #EXTINF:-1,Dawn News
 http://watchindia.net:8880/live/65596/46234/1044.ts
+
+#EXTINF:-1 ,Disney Hindi
+https://tgaadi-web.tech/portal.php?tv=156000
+
+#EXTINF:-1 ,DORAEMON 24/7
+http://port.denver1769.in/Ply/tptv.php?id=58634
+
+#EXTINF:-1 ,Sinchan 24x7
+http://port.denver1769.in/Ply/tptv.php?id=58625
+
+#EXTINF:-1 ,Hangama
+http://port.denver1769.in/Ply/tptv.php?id=11646
 
 #EXTINF:-1 ,Nick Junior English
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
@@ -182,3 +200,6 @@ http://Watchindia.net:8880/live/98697/23119/2608.ts
 
 #EXTINF:-1 ,Sony Ten 1
 http://Watchindia.net:8880/live/98697/23119/2215.ts
+
+#EXTINF:-1 ,Ten Sports
+http://176.119.29.52/live/00:1A:79:00:02:27/SN_1697176356/301.m3u8
