@@ -6,6 +6,24 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1, SONY PIX
 http://Watchindia.net:8880/live/98697/23119/2101.ts
 
+#EXTINF:-1, SONY UK
+http://watchindia.net:8880/live/65596/46234/2117.ts
+
+#EXTINF:-1, SONY MAX
+http://watchindia.net:8880/live/65596/46234/788.ts
+
+#EXTINF:-1, SONY SAB
+http://watchindia.net:8880/live/65596/46234/2323.ts
+
+#EXTINF:-1, SONY PAL
+http://watchindia.net:8880/live/65596/46234/812.ts
+
+#EXTINF:-1, SONY Yay
+http://watchindia.net:8880/live/65596/46234/2104.ts
+
+#EXTINF:-1, &Picture HD
+http://watchindia.net:8880/live/65596/46234/783.ts
+
 #EXTINF:-1,TimesNow
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 
@@ -114,8 +132,14 @@ https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1,PTV News
 https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
 
-#EXTINF:-1 ,Nick Junior
+#EXTINF:-1,Dawn News
+http://watchindia.net:8880/live/65596/46234/1044.ts
+
+#EXTINF:-1 ,Nick Junior English
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
+
+#EXTINF:-1 ,Nick Junior Hindi
+http://watchindia.net:8880/live/65596/46234/2182.ts
 
 #EXTINF:-1,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
