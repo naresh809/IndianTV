@@ -149,3 +149,12 @@ http://124.29.225.205:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 ,Star Sports 2
 http://124.29.225.205:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 ,Sony Ten 3
+http://Watchindia.net:8880/live/98697/23119/1758.ts
+
+#EXTINF:-1 ,Sony Ten 2
+http://Watchindia.net:8880/live/98697/23119/2608.ts
+
+#EXTINF:-1 ,Sony Ten 1
+http://Watchindia.net:8880/live/98697/23119/2215.ts
