@@ -63,6 +63,9 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kann
 #EXTINF:-1,Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live_360p/chunks.m3u8
 
+#EXTINF:-1,PowerTV
+https://powertvkannada.com/hls/stream.m3u8
+
 #EXTINF:-1,News 1st Kannada
 https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/chunks.m3u8
 
