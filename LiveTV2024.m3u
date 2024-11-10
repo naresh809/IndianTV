@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,NewsX Live
-https://indianews.ottlive.co.in/newsx/newsx/tracks-v1/index.fmp4.m3u8
+https://indianews.ottlive.co.in/newsx/newsx/index.fmp4.m3u8
 
 #EXTINF:-1,Republic TV
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=republicweb
