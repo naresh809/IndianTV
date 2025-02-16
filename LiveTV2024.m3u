@@ -18,6 +18,9 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #EXTINF:-1,Aajtak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
+#EXTINF:-1,GNT Live
+https://feeds.intoday.in/gnt/api/master.m3u8
+
 #EXTINF:-1,ABP News
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
 
