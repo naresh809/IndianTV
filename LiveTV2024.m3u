@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1,Times Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
+
 #EXTINF:-1,NewsX Live
 https://indianews.ottlive.co.in/newsx/newsx/index.fmp4.m3u8
 
@@ -102,8 +106,7 @@ http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 
 
-#EXTINF:-1,TimesNow
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
+
 
 #EXTINF:-1,Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
