@@ -75,9 +75,6 @@ https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d2354
 #EXTINF:-1,NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
-#EXTINF:-1,NDTV 24X7 
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-
 #EXTINF:-1,NDTV India 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
@@ -86,6 +83,9 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1,Al Jazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1,CNBC Awaj
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
@@ -107,6 +107,9 @@ https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 #EXTINF:-1,ARY News
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+
+#EXTINF:-1,92 News
+https://streamer12.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1,GEO News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
