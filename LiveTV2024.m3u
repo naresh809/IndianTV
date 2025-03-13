@@ -109,10 +109,7 @@ https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 
 #EXTINF:-1,GEO News
-http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
-
-
-
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
 #EXTINF:-1,Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
