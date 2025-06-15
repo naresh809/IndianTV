@@ -6,9 +6,6 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3
 #EXTINF:-1,Times Now Nav Bharat
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
 
-#EXTINF:-1,NewsX Live
-https://www.youtube.com/watch?v=btq0S6dXzNA
-
 #EXTINF:-1,Republic TV
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=republicweb
 
@@ -120,28 +117,28 @@ https://streamer12.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1,GEO News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
-#EXTINF: Lahore News
+#EXTINF:-1,Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
-#EXTINF: Dunya News
+#EXTINF:-1,Dunya News
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
-#EXTINF: Aik News
+#EXTINF:-1,Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
 
-#EXTINF:Such TV
+#EXTINF:-1,Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 
-#EXTINF:9X
+#EXTINF:-1,9X
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
-#EXTINF:9XJakaas
+#EXTINF:-1,9XJakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 
-#EXTINF:9XM
+#EXTINF:-1,9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 
-#EXTINF:SonySub
+#EXTINF:-1,SonySub
 https://tv.bdixtv24.com/toffee/live.php?id=b7167fe646a4&e=.m3u8
 
 #EXTINF:-1,Mirror Now
