@@ -21,6 +21,9 @@ https://feeds.intoday.in/gnt/api/master.m3u8
 #EXTINF:-1,ABP News
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
 
+#EXTINF:-1,ABP Maza
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+
 #EXTINF:-1,India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
@@ -102,8 +105,14 @@ https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1,CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1,&TV
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,9X
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
@@ -135,11 +144,16 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 #EXTINF:-1,Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
+
 #EXTINF:-1,Dunya News
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 #EXTINF:-1,Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 
+#EXTINF:-1,Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 
+#EXTINF:-1,AXN
+http://125hvt.ddns.net:21585/axn/index.m3u8
 
