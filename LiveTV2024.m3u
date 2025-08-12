@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Bharat24Live
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/abd411f5-d86f-4d2f-ac68-8dcdadcf002c/1.m3u8
+
 #EXTINF:-1,Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 
