@@ -147,3 +147,15 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1,AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
 
+#EXTINF:-1,ABC News-US
+https://service-pkgabcnews.akamaized.net/opp/hls/abcnews/2025/08/250814_gmafl_family_band_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/playlist.m3u8
+
+#EXTINF:-1,PBS-News-US
+https://ga.pbs-video.pbs.org/videos/newshour/d965dc9b-25ae-4c11-bf02-8b7193317b14/2000488286/hd-16x9-mezzanine-1080p/futureofukraine-AABR-AVC_406.m3u8
+
+#EXTINF:-1,LiveNOW-US
+https://dcs-live-uw1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177610498-n06d3e7165eb45b81671773c3ddd7003b&ts=1755202005&anvtrid=b4b6db0e1bf66baae583fea6dd3a6aca
+
+#EXTINF:-1,FOXNews-US
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_1392.m3u8
+
