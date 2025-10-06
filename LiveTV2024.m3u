@@ -19,10 +19,10 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://feeds.intoday.in/gnt/api/master.m3u8
 
 #EXTINF:-1,ABP News
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
 #EXTINF:-1,ABP Maza
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
 
 #EXTINF:-1,India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
