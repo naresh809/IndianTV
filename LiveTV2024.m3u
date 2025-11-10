@@ -51,6 +51,15 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,NDTV India 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
+#EXTINF:-1,News X
+https://newsxott.in/hls/newsx.m3u8
+
+#EXTINF:-1,News9Live
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+
+#EXTINF:-1,News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+
 #EXTINF:-1,CNBC TV18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=3724000.m3u8
 
@@ -71,6 +80,9 @@ https://d179muqh6u5263.cloudfront.net/master.m3u8
 
 #EXTINF:-1,NDTV Profit
 https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
+
+#EXTINF:-1,Raj News Kannada
+http://87.255.35.150:18446
 
 #EXTINF:-1,Republic Kannada
 https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
@@ -105,6 +117,12 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_1200k.m3u8
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 
+#EXTINF:-1,NewsMAX2
+https://jmp2.uk/stvp-USBA300028QU
+
+#EXTINF:-1,SKY News
+https://jmp2.uk/stvp-USBB52000022Q
+
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
@@ -117,17 +135,35 @@ https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1,SansadTV LokSabha
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
 
+#EXTINF:-1,BBC News Asia
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1,LahoreNews
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1,4TV News
+https://cdn-4.pishow.tv/live/1007/master.m3u8
+
+#EXTINF:-1,ANN News PAK
+https://cdn.ottlive.co.in/annnews/index.m3u8
+
 #EXTINF:-1,DUNYA NEWS PAK
-https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 #EXTINF:-1,ARY News
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 
+#EXTINF:-1,92News Pak
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
 #EXTINF:-1,GEO News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
-#EXTINF:-1,Dunya News
+#EXTINF:-1,Dunya News1
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1,Dunya News2
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 
 #EXTINF:-1,ZTV
 http://103.182.170.32:8888/play/a04r
