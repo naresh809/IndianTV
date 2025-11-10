@@ -87,7 +87,6 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kann
 #EXTINF:-1,Suvarna News
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8
 
-
 #EXTINF:-1,PowerTV
 https://powertvkannada.com/hls/stream.m3u8
 
@@ -105,24 +104,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1,ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1,CGTN
-https://english-livebkali.cgtn.com/live/encgtn.m3u8
-
-#EXTINF:-1,&TV
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,9X
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-
-#EXTINF:-1,9XJakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-#EXTINF:-1,9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 
 #EXTINF:-1,DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
@@ -145,32 +126,17 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 #EXTINF:-1,Dunya News
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
-#EXTINF:-1,AXN
-http://125hvt.ddns.net:21585/axn/index.m3u8
-
-#EXTINF:-1,ABC News-US
-https://service-pkgabcnews.akamaized.net/opp/hls/abcnews/2025/08/250814_gmafl_family_band_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/playlist.m3u8
-
-#EXTINF:-1,PBS-News-US
-https://ga.pbs-video.pbs.org/videos/newshour/d965dc9b-25ae-4c11-bf02-8b7193317b14/2000488286/hd-16x9-mezzanine-1080p/futureofukraine-AABR-AVC_406.m3u8
-
-#EXTINF:-1,Star Sports-Tamil
-https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
-
-#EXTINF:-1,Sony HD
-http://103.182.170.32:8888/play/a03t
-
-#EXTINF:-1,Star Sports 1
-http://103.182.170.32:8888/play/a040
-
-#EXTINF:-1,Star Sports 1 Hindi
-http://103.182.170.32:8888/play/a04e
-
-#EXTINF:-1,Star Sports 2
-http://103.182.170.32:8888/play/a03e
-
-#EXTINF:-1,Star Sports 2 Hindi
-http://103.182.170.32:8888/play/a04p
-
 #EXTINF:-1,ZTV
 http://103.182.170.32:8888/play/a04r
+
+#EXTINF:-1,&TV
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,9X
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+
+#EXTINF:-1,9XJakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+#EXTINF:-1,9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
