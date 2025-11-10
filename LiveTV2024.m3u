@@ -21,8 +21,8 @@ https://feeds.intoday.in/gnt/api/master.m3u8
 #EXTINF:-1,ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
-#EXTINF:-1,ABP Maza
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
+#EXTINF:-1,Bharat24
+https://cdn.ottlive.co.in/bharat24/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1,India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
