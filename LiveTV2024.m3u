@@ -22,7 +22,7 @@ https://feeds.intoday.in/gnt/api/master.m3u8
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
 #EXTINF:-1,Bharat24
-https://cdn.ottlive.co.in/bharat24/tracks-a1/index.fmp4.m3u8
+https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 
 #EXTINF:-1,India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
@@ -44,6 +44,9 @@ https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18
 
 #EXTINF:-1,Z BHARAT
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1,ABC 10 News
+https://amg01438-ewscripps-amg01438c6-lg-us-4346.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
