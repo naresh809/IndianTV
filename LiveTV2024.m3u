@@ -48,11 +48,13 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1,Bharat24
 https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 
-#EXTINF:-1,CNN News18
+#EXTINF:-1,CNBC News18
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 
 #EXTINF:-1,Z BHARAT
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1,CNN News18
 
 #EXTINF:-1,NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
@@ -66,6 +68,9 @@ https://newsxott.in/hls/newsx.m3u8
 #EXTINF:-1, News 1
 http://202.164.50.194:8000/play/a02z/index.m3u8
 
+#EXTINF:-1, First India News 
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
 #EXTINF:-1,News9Live
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
 
@@ -75,20 +80,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 #EXTINF:-1,CNBC TV18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=3724000.m3u8
 
-#EXTINF:-1,NewsNation-US
+#EXTINF:-1,Global News-US
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-
-#EXTINF:-1,CNBC Awaj
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
-
-#EXTINF:-1,Zee Business
-https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1,Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
-
-#EXTINF:-1,NDTV Profit
-https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
 
 #EXTINF:-1,Republic Kannada
 https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
@@ -100,10 +96,10 @@ https://d3vzwoqcbpfm8p.cloudfront.net/index_2.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 
 #EXTINF:-1,Public TV 
-https://cdn.knowtable.xyz:5443/live/streams/Publictv.m3u8
+https://cdn-3.pishow.tv/live/439/master.m3u8
 
 #EXTINF:-1,News 18 Kannada
-https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kannada_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1,Suvarna News
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8
@@ -111,14 +107,14 @@ https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca14
 #EXTINF:-1,PowerTV
 https://powertvkannada.com/hls/stream.m3u8
 
-#EXTINF:-1,BBC News UK
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_1200k.m3u8
-
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1,NewsMAX2
 https://jmp2.uk/stvp-USBA300028QU
+
+#EXTINF:-1,News MAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
@@ -135,14 +131,8 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1,CNN
 https://tvpass.org/live/CNN/sd
 
-#EXTINF:-1,NewsMX TV
-https://tvpass.org/live/NewsmaxTV/sd
-
 #EXTINF:-1,FoxNews
-https://tvpass.org/live/FoxNewsChannel/sd
-
-#EXTINF:-1,NewsMX2
-https://jmp2.uk/stvp-USBA300028QU
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1,92News Pak
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -156,11 +146,10 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1,Dunya News2
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 
-#EXTINF:-1, Bhihar Vidhansabha
-https://playhls.media.nic.in/hls/live/biharvs/biharvs.m3u8
+#EXTINF:-1,Lahor News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
-#EXTINF:-1, Bhihar News
-http://202.164.50.194:8000/play/a066/index.m3u8
+
 
 
 
