@@ -111,6 +111,9 @@ https://powertvkannada.com/hls/stream.m3u8
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 
+#EXTINF:-1,BBC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+
 #EXTINF:-1,NewsMAX2
 https://jmp2.uk/stvp-USBA300028QU
 
@@ -130,13 +133,16 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1,CNN
-https://tvpass.org/live/CNN/sd
+https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1,FoxNews
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+Lex 18 (US) Geo
+https://amg01438-ewscripps-amg01438c21-lg-us-4332.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,92News Pak
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
