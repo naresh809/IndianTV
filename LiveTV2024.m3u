@@ -79,6 +79,9 @@ https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1,Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
 
+#EXTINF:-1,Lokshahi News Marathi
+https://see.lokshahi.live/live/index.m3u8
+
 #EXTINF:-1,DD Goa News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
 
@@ -111,6 +114,9 @@ https://powertvkannada.com/hls/stream.m3u8
 
 #EXTINF:-1,TV5 Kannada
 https://cdn-3.pishow.tv/live/1526/master.m3u8
+
+#EXTINF:-1,News 1st Kannada
+https://cdn-3.pishow.tv/live/268/master.m3u8
 
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
