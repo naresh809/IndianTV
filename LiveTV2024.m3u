@@ -43,6 +43,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1,Bharat24
 https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 
+#EXTINF:-1,News India 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
+
 #EXTINF:-1,CNBC News18
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 
@@ -70,6 +73,21 @@ https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772
 #EXTINF:-1,News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
+#EXTINF:-1,K News India
+https://knews.livebox.co.in/youtubehls/live.m3u8
+
+#EXTINF:-1,Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8
+
+#EXTINF:-1,DD Goa News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+
+#EXTINF:-1,Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1,DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
 #EXTINF:-1,Republic Kannada
 https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
 
@@ -90,6 +108,9 @@ https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca14
 
 #EXTINF:-1,PowerTV
 https://powertvkannada.com/hls/stream.m3u8
+
+#EXTINF:-1,TV5 Kannada
+https://cdn-3.pishow.tv/live/1526/master.m3u8
 
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
@@ -157,6 +178,9 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 
 #EXTINF:-1,Lahor News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1,& TV
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
 
 
