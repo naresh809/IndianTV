@@ -32,7 +32,10 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1,News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1,News 24 MP/CG
+https://news24mpcg-playout.vidgyor.com/pub-ionews24mpcg/liveabr/pub-ionews24mpcg/live_720p/chunks.m3u8
 
 #EXTINF:-1,TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
@@ -61,26 +64,11 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 #EXTINF:-1,Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
 
-#EXTINF:-1,News X
-https://newsxott.in/hls/newsx.m3u8
-
 #EXTINF:-1,News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
 #EXTINF:-1,K News India
 https://knews.livebox.co.in/youtubehls/live.m3u8
-
-#EXTINF:-1,Saam TV
-https://cdn-3.pishow.tv/live/437/master.m3u8
-
-#EXTINF:-1,Lokshahi News Marathi
-https://see.lokshahi.live/live/index.m3u8
-
-#EXTINF:-1,DD Goa News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
-
-#EXTINF:-1,Zee 24 Taas
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1,DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -115,26 +103,11 @@ https://cdn-3.pishow.tv/live/268/master.m3u8
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1,Global News-US
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-
-#EXTINF:-1,Newsmax TV 
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-
-#EXTINF:-1,Top Stories by Newsy
-https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-
-#EXTINF:-1,ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1,Fox News
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
 #EXTINF:-1,BBC News Asia
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1,CNN
-https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN News
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1,RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
