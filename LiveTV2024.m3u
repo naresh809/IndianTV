@@ -58,6 +58,9 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,Bharat Express 
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 
+#EXTINF:-1,Good News
+https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
+
 #EXTINF:-1,NDTV India 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
@@ -103,8 +106,14 @@ https://cdn-3.pishow.tv/live/268/master.m3u8
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 
+#EXTINF:-1,i24 English Middle East
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+
 #EXTINF:-1,BBC News Asia
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1,BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
 #EXTINF:-1,CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -115,8 +124,14 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,FoxNews
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8?hdnea=exp=1769856335~acl=/*~hmac=b18168113002841e83a45dd8b0fcfcb7518d9593e31147f78d5409673690cf6f
 
+#EXTINF:-1,News World
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+
 #EXTINF:-1,BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+
+#EXTINF:-1,Dunya News PK
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 #EXTINF:-1,NewsMAX2
 https://jmp2.uk/stvp-USBA300028QU
@@ -132,26 +147,6 @@ https://hls.media.nic.in/live/rstv/index.m3u8
 
 #EXTINF:-1,SansadTV LokSabha
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
-
-
-Lex 18 (US) Geo
-https://amg01438-ewscripps-amg01438c21-lg-us-4332.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,92News Pak
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-
-
-#EXTINF:-1,GEO News
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-
-#EXTINF:-1,Dunya News1
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-
-#EXTINF:-1,Dunya News2
-https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-
-#EXTINF:-1,Lahor News
-https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
 #EXTINF:-1,& TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
