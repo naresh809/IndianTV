@@ -127,9 +127,6 @@ https://amg01918-cnnus-amg01918c1-tablo-us-7236.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1,RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1,FoxNews
-https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8?hdnea=exp=1769856335~acl=/*~hmac=b18168113002841e83a45dd8b0fcfcb7518d9593e31147f78d5409673690cf6f
-
 #EXTINF:-1,News World
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 
