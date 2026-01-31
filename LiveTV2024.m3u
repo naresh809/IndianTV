@@ -118,6 +118,12 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1,CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1,Breaking News
+https://amg02703-amg02703c18-vizio-us-6423.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstoryus-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQzMDA5MjYxNn0
+
+#EXTINF:-1,CNN Connect World
+https://amg01918-cnnus-amg01918c1-tablo-us-7236.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
@@ -150,6 +156,9 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
 #EXTINF:-1,& TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+
+#EXTINF:-1,Always Funny TV
+https://linear-12.frequency.stream/dist/vizio/12/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjMyOTAyMjQ3NTV9
 
 
 
