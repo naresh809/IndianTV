@@ -113,7 +113,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1,FoxNews
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8?hdnea=exp=1769856335~acl=/*~hmac=b18168113002841e83a45dd8b0fcfcb7518d9593e31147f78d5409673690cf6f
 
 #EXTINF:-1,BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
