@@ -58,6 +58,15 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,Bharat Express 
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 
+#EXTINF:-1,India News
+http://103.78.149.54:8000/play/a01t/index.m3u8
+
+#EXTINF:-1,Live Times
+http://103.78.149.54:8000/play/a03c/index.m3u8
+
+#EXTINF:-1,MH News
+http://103.78.149.54:8000/play/a03f/index.m3u8
+
 #EXTINF:-1,Good News
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 
@@ -154,11 +163,17 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1,& TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-#EXTINF:-1,Always Funny TV
-https://linear-12.frequency.stream/dist/vizio/12/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjMyOTAyMjQ3NTV9
+#EXTINF:-1, Shemaroo Umang
+http://103.78.149.54:8000/play/a00g/index.m3u8
 
+#EXTINF:-1, DD Sports
+http://103.78.149.54:8000/play/a02r/index.m3u8
 
+#EXTINF:-1, DD Sports HD
+http://103.78.149.54:8000/play/a02i/index.m3u8
 
+#EXTINF:-1, SONY PAL
+http://103.78.149.54:8000/play/a016/index.m3u8
 
 
 
