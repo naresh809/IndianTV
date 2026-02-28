@@ -58,16 +58,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,Bharat Express 
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 
-#EXTINF:-1,India News
-http://103.78.149.54:8000/play/a01t/index.m3u8
-
-#EXTINF:-1,Live Times
-http://103.78.149.54:8000/play/a03c/index.m3u8
-
-#EXTINF:-1,MH News
-http://103.78.149.54:8000/play/a03f/index.m3u8
-
-#EXTINF:-1,Good News
+EXTINF:-1,Good News
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 
 #EXTINF:-1,NDTV India 
@@ -75,12 +66,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1,Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
-
-#EXTINF:-1,News Nation
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-
-#EXTINF:-1,K News India
-https://knews.livebox.co.in/youtubehls/live.m3u8
 
 #EXTINF:-1,DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -115,14 +100,8 @@ https://cdn-3.pishow.tv/live/268/master.m3u8
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1,i24 English Middle East
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
-
 #EXTINF:-1,BBC News Asia
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-
-#EXTINF:-1,BBC News Europe
-https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
 #EXTINF:-1,CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -139,18 +118,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,News World
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 
-#EXTINF:-1,BBC
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-
-#EXTINF:-1,Dunya News PK
-https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-
-#EXTINF:-1,NewsMAX2
-https://jmp2.uk/stvp-USBA300028QU
-
-#EXTINF:-1,News MAX
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
@@ -163,18 +130,13 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1,& TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-#EXTINF:-1, Shemaroo Umang
-http://103.78.149.54:8000/play/a00g/index.m3u8
+#EXTINF:-1,Dunya News
+https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 
-#EXTINF:-1, DD Sports
-http://103.78.149.54:8000/play/a02r/index.m3u8
+#EXTINF:-1,FOX News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 
-#EXTINF:-1, DD Sports HD
-http://103.78.149.54:8000/play/a02i/index.m3u8
-
-#EXTINF:-1, SONY PAL
-http://103.78.149.54:8000/play/a016/index.m3u8
-
-
+#EXTINF:-1,NBC News
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 
 
