@@ -34,8 +34,17 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1,News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
-#EXTINF:-1,News 24 MP/CG
-https://news24mpcg-playout.vidgyor.com/pub-ionews24mpcg/liveabr/pub-ionews24mpcg/live_720p/chunks.m3u8
+#EXTINF:-1,News 9
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+
+#EXTINF:-1,News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+
+#EXTINF:-1,India News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8?ads.vf=FhntID5skqS
+
+#EXTINF:-1,India News
+https://newsxott.in/hls/indianewsnational.m3u8
 
 #EXTINF:-1,TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
@@ -43,8 +52,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1,Bharat24
 https://stream1.ottlive.co.in/bharat24/index.fmp4.m3u8
 
-#EXTINF:-1,News India 24x7
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
+#EXTINF:-1,1st India News
+https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
 
 #EXTINF:-1,CNBC News18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8
@@ -103,6 +112,9 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1,CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1,Euro News
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+
 #EXTINF:-1,Breaking News
 https://amg02703-amg02703c18-vizio-us-6423.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstoryus-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQzMDA5MjYxNn0
 
@@ -128,7 +140,7 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
 #EXTINF:-1,Dunya News
-https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 
 #EXTINF:-1,FOX News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
