@@ -139,13 +139,34 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1,& TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
+#EXTINF:-1,Sony Sub
+http://103.229.254.25:7001/play/a0db/index.m3u8
+
+#EXTINF:-1,Sony Yay
+http://103.229.254.25:7001/play/a0cl/index.m3u8
+
 #EXTINF:-1,Dunya News
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+
+#EXTINF:-1,Geo Tez
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+
+#EXTINF:-1,SuchTV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1,FOX News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 
 #EXTINF:-1,NBC News
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+
+#EXTINF:-1,Mr.Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1,Z World
+https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
+
+#EXTINF:-1,Sony KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 
