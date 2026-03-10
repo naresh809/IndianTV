@@ -49,8 +49,8 @@ https://newsxott.in/hls/indianewsnational.m3u8
 #EXTINF:-1,TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 
-#EXTINF:-1,Bharat24
-https://stream1.ottlive.co.in/bharat24/index.fmp4.m3u8
+#EXTINF:-1,Bharat Express
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W
 
 #EXTINF:-1,1st India News
 https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
@@ -72,6 +72,12 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1,Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
+
+#EXTINF:-1,SansadTV RajyaSabha
+https://hls.media.nic.in/live/rstv/index.m3u8
+
+#EXTINF:-1,SansadTV LokSabha
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
 #EXTINF:-1,DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -122,28 +128,13 @@ https://amg02703-amg02703c18-vizio-us-6423.playouts.now.amagi.tv/playlist/amg027
 https://amg01918-cnnus-amg01918c1-tablo-us-7236.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 
 #EXTINF:-1,News World
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 
 #EXTINF:-1,Al Jazeera
-https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1,SansadTV RajyaSabha
-https://hls.media.nic.in/live/rstv/index.m3u8
-
-#EXTINF:-1,SansadTV LokSabha
-https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
-
-#EXTINF:-1,& TV
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-
-#EXTINF:-1,Sony Sab
-http://103.229.254.25:7001/play/a0db/index.m3u8
-
-#EXTINF:-1,Sony Pal
-http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1,Dunya News
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
@@ -160,14 +151,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/
 #EXTINF:-1,NBC News
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 
-#EXTINF:-1,Mr.Bean
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-
 #EXTINF:-1,Z World
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
-
-#EXTINF:-1,Sony KAL
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1,Star Sports1
 http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8
@@ -192,6 +177,21 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8
 
 Sony Yay! 
 http://103.229.254.25:7001/play/a0cl/index.m3u8
+
+#EXTINF:-1,& TV
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+
+#EXTINF:-1,Sony Sab
+http://103.229.254.25:7001/play/a0db/index.m3u8
+
+#EXTINF:-1,Sony Pal
+http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
+
+#EXTINF:-1,Sony KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1,Mr.Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
 
