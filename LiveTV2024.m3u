@@ -139,11 +139,11 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1,& TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-#EXTINF:-1,Sony Sub
+#EXTINF:-1,Sony Sab
 http://103.229.254.25:7001/play/a0db/index.m3u8
 
-#EXTINF:-1,Sony Yay
-http://103.229.254.25:7001/play/a0cl/index.m3u8
+#EXTINF:-1,Sony Pal
+http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
 
 #EXTINF:-1,Dunya News
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
