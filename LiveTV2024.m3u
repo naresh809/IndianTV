@@ -145,65 +145,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/
 #EXTINF:-1,NBC News
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 
-#EXTINF:-1,Z World
-https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
-
-#EXTINF:-1,Star Sports1
-http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8
-
-#EXTINF:-1,Star Sports1 HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
-
-#EXTINF:-1,Star Sports1 HD Hindi
-http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
-
-#EXTINF:-1,Star Sports2 Hindi
-http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8
-
-#EXTINF:-1,Disney 1
-http://103.182.170.32:8888/play/a04g
-
-#EXTINF:-1,Disney HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
-
-#EXTINF:-1,Nick Jr
-http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8
-
-#EXTINF:-1,DK
-http://103.229.254.25:7001/play/a0dg/index.m3u
-
-#EXTINF:-1,PoGo
-http://103.229.254.25:7001/play/a0dh/index.m3u
-
-Sony Yay! 
-http://103.229.254.25:7001/play/a0cl/index.m3u8
-
 #EXTINF:-1,& TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-
-#EXTINF:-1,Zee TV
-http://103.229.254.25:7001/play/a0cs/index.m3u8
-
-#EXTINF:-1,Star Plus
-http://103.229.254.25:7001/play/a09z/index.m3u8
-
-#EXTINF:-1,Sony Sab
-http://103.229.254.25:7001/play/a0db/index.m3u8
-
-#EXTINF:-1,Sony Max
-http://iptvcasomsapi.jprdigital.in/x-media/C0361/master.m3u8
-
-#EXTINF:-1,Sony Pal
-http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
-
-#EXTINF:-1, Colors
-http://iptvcasomsapi.jprdigital.in/x-media/C0387/master.m3u8
-
-#EXTINF:-1,Sony KAL
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1,Mr.Bean
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
 
