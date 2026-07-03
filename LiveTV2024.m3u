@@ -125,6 +125,28 @@ https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
 http://149.71.34.166:8000/play/a00z/index.m3u8
 
 
+#EXTINF:-1,ABN News
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+
+#EXTINF:-1,Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1,KTN News
+https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+
+#EXTINF:-1,Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1,Neo News 
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+
+#EXTINF:-1,News One
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+
+#EXTINF:-1,Samaa TV
+https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+
+
 
 
 
