@@ -67,6 +67,9 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 #EXTINF:-1,CNBC Awaaz
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 
+#EXTINF:-1,Goa 365 News
+https://satpros.tech/hls/goa365tv/live_tv_stream/index.m3u8
+
 #EXTINF:-1,SansadTV RajyaSabha
 https://hls.media.nic.in/live/rstv/index.m3u8
 
