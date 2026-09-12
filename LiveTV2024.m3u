@@ -14,11 +14,10 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
 
 #EXTINF:-1,Republic TV
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=republicweb
+https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/b2e677a4-ae6c-11f1-aec0-1e174746a36b/79/854x480_1513600/index.m3u8
 
 #EXTINF:-1,Republic Bharat
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=republicweb
-
+https://amg01218-amg01218c7-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c7-amgplt0915/playlist.m3u8?app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&channel_name=&content_livestream=REPLACE_ME&coppa=0&did=REPLACE_ME&dnt=REPLACE_ME&gdpr=REPLACE_ME&gdpr_consent=REPLACE_ME&ifa_type=REPLACE_ME&us_privacy=REPLACE_ME
 #EXTINF:-1,Aajtak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
