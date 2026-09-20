@@ -49,7 +49,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 #EXTINF:-1,Mirror Now
-https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/468dfb6e-015a-4875-85cd-17af116d3e43:TPE2/master.m3u8
+https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/3b3d5f71-0684-44af-8827-d79206ff1155:SIN2/variant/08812c4c0f7f220bbdf185d5aa305448/bandwidth/1592800.m3u8
 
 #EXTINF:-1,News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
