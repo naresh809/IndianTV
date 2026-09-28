@@ -42,6 +42,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1,Z BHARAT
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 
+#EXTINF:-1,BHARAT 24
+https://cdn.ottlive.co.in/bharat24/index.m3u8
+
 #EXTINF:-1,NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
@@ -49,7 +52,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 #EXTINF:-1,Mirror Now
-https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/3b3d5f71-0684-44af-8827-d79206ff1155:SIN2/variant/27e73521d36119371052e31d1c6a01dc/bandwidth/910800.m3u8
+https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 
 #EXTINF:-1,News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
@@ -66,17 +69,12 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 #EXTINF:-1,CNBC Awaaz
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1,SansadTV RajyaSabha
-https://hls.media.nic.in/live/rstv/index.m3u8
-
-#EXTINF:-1,SansadTV LokSabha
-https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
-
 #EXTINF:-1,DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
 #EXTINF:-1,Republic Kannada
-https://amg01218-amg01218c4-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c4-amgplt0915/y3w-Gntzb4qTyj9s0aJAp9EBZoQDOoUwPP9ewyTDGFPT7qLH50zraX7SYoErUzENDHjOB95sGaCHJPwOcz8HCv6Is3vHmRkZ1YFRLC64alZX-hcFoWUTftzeHwquNKE2UEC_Rz0AcsWWIckLLtmQVtIkfJvaiDJiIkNP7AUfuv0LvP7kXlvYcqGvHFj2fhO2wBvW0R-8ntddjjbSIe4VmJHui80QnIaDd6xQsDJRCyd-1IItkZkQ54ucOHSecisRUwLj9ZKsSjmFExUJr6Wz1Q3-A962K4BtMsls8iW2FbpHiyqC3mOF9_m1MEI2qtBebzOf6amc_iYnr2P6r5uxGRar0yRUZupI5w8OYuyXpxOA0weptSyLp2wTLLL9L_Gvl7PDka5vowjvnYnyUENeczsRklKwn1LOO9EKxKR5E3l9aIy5cPur_ARICCePhl_rBwKp3vnvtWQJ71A3e8tF5nYgNr9eD3jsKYv2Vga7AzqpFB7eZxilGI_ST_Gpz5dqUd_s4nLTTsyQNf_TWN0HWF4Go-BeMy8mT_XeSiwTXPxowYmwix0cE9Pn3_fWUjseS3s4ZrnH11y6reUWMDObP0wFdx8HhgWkCrVhGVpUo3TSvBlLhxMvKeqiTTEwBqTtga2m9e97mFrh2ZdWR62GTsdRLAgstp-DXfQ5OREQP6E8FIg5mjg4jrTa7Jj6AqY374dKBDl2yPIWSEsnG6H8tuIK-naY-DC4k8tOzfyFBleEdstrdsqAjDygtdOEJ6fx25LExuCVVJZTVDwiK-BFikL4-jknDzVBB-mBWPRerd6gYErwMYBAGXfmdLrTtv2GJh7QmEQ3PB5GV1FmNn1c9oqOJDdy4upzvR3-vQHgAnUjL0vbtQVcreFjU8lmKS729ovDhuI3PeYitHnAawbmcAgt6sNxqqC64fWKahtRjOXlHPXxxtGM5csgfxllf86SCBskjmbViACu_EgvodnFtZQ-5QCIX4yNuCrrK7OL7V7c97PKuyZHEAots6ue1x3YrgVWtH3PP0Q1lYn2-3b03Kh9Fs9Z54BHI-4Jd1PNpOwXikyc4yoh84h5U7cjYiGBNpfBfUJT-mlLRkZtI7oXlZvjQl03/70/854x480_1513600/index.m3u8
+https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+
 #EXTINF:-1,ZeeNews Kannada
 https://d3vzwoqcbpfm8p.cloudfront.net/index_2.m3u8
 
@@ -127,6 +125,12 @@ https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 
 #EXTINF:-1,Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+
+#EXTINF:-1,24 PK News
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+
+#EXTINF:-1,BBC News
+https://xemzi.short.gy/1000015
 
 
 
