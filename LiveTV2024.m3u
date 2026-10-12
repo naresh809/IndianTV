@@ -133,6 +133,9 @@ https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 #EXTINF:-1,BBC News
 https://xemzi.short.gy/1000015
 
+#EXTINF:-1,Star Sports 2
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+
 
 
 
