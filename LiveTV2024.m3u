@@ -136,6 +136,12 @@ https://xemzi.short.gy/1000015
 #EXTINF:-1,Star Sports 2
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 
+#EXTINF:-1,Z Comedy Nation
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+
+#EXTINF:-1,B4U Movies
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+
 
 
 
