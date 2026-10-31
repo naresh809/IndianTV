@@ -172,6 +172,39 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1,Sony HD
 http://38.96.178.205/SONYHD/index.m3u8
 
+#EXTINF:-1,Sony Kal
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1,Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1,Sart Bharat
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+
+#EXTINF:-1,Sart Pravah
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1,CNN Int
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1,DD Sports1
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1,DD Sports2
+https://cdn.pishow.tv/ott/live/1161/master.m3u8
+
+#EXTINF:-1,CNN News
+https://tvsen6.aynaott.com/cnn/index.m3u8
+
+#EXTINF:-1,NBC News Now
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+
+#EXTINF:-1,CBS News
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+
+#EXTINF:-1,ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
 
 
 
